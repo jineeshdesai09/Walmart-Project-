@@ -36,9 +36,8 @@
 <ul class="list-disc pl-4 my-0">
 <li class="my-0">🧩 <strong>Modular Architecture:</strong> Reusable React components and organized backend schemas streamline development.</li>
 <li class="my-0">🚀 <strong>Full-Stack Functionality:</strong> Seamless integration of MongoDB, Express, React, and Node.js for a complete solution.</li>
-<li class="my-0">🔒 <strong>User Authentication:</strong> Secure login, registration, and personalized user management.</li>
+<li class="my-0">🔒 <strong>User Authentication:</strong> Simple login, registration, and personalized user management.</li>
 <li class="my-0">🛒 <strong>Shopping Cart &amp; Product Browsing:</strong> Dynamic product display, search, and cart management for a smooth shopping experience.</li>
-<li class="my-0">🛠️ <strong>Admin Dashboard:</strong> Efficient product management with listing, editing, and creation tools.</li>
 <li class="my-0">📡 <strong>RESTful API:</strong> Robust backend endpoints facilitate data operations and frontend-backend communication.</li>
 </ul>
 <hr>
